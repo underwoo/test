@@ -1,0 +1,4 @@
+[submodule "test_submod"]
+	path = test_dir
+	url = https://github.com/underwoo/underwoo.github.io.git
+	branch = master
